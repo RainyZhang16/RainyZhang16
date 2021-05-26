@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RainyZhang16 a GISer.
+- 👋 Hi, I’m @Rain a GISer.
 - 👀 I’m interested in GIS/RS/DL.
 - 🌱 I’m currently learning RS/DL
 - 💞️ I’m looking to collaborate on ...
